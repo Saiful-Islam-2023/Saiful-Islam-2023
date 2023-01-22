@@ -10,8 +10,6 @@ I’m a Front End Web developer. I have a passion for learning and sharing my kn
 - 🔰 JavaScript 
 - 🔰 PHP
 - 🔰 HTML5 / CSS3 / Tailwind / Bootstrap
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saiful-Islam-2023)](https://github.com/ryo-ma/github-profile-trophy)
 # 🤙 Connect Me❗
 
 
