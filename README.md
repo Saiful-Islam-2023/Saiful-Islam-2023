@@ -2,8 +2,7 @@
 #### I am Web Developer
 ![I am Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-#🙂 About Me 💯
-
+# 🙂 About Me 💯
 I’m a Front End Web developer. I have a passion for learning and sharing my knowledCancel changesge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the many years, I created many websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 
 Skills: REACT / JS / HTML / CSS
