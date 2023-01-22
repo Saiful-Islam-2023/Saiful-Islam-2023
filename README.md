@@ -1,6 +1,6 @@
 # Hi, I'm 👋 Saiful Islam
-### I am Web Developer 😊
-![Profile views](https://gpvc.arturio.dev/Saiful-Islam-2023)
+### I am a Web Developer!  ![Profile views](https://gpvc.arturio.dev/Saiful-Islam-2023)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saiful-Islam-2023&show_icons=true)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Saiful-Islam-2023)  
@@ -15,7 +15,7 @@ I’m a Front End Web developer. I have a passion for learning and sharing my kn
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Saiful-Islam-2023)](https://github.com/ryo-ma/github-profile-trophy)
 # 🤙 Connect Me❗
-[<img src='[https://icons8.com/icon/118497/facebook]' alt='github' height='40'>](https://github.com/Saiful-Islam-2023) 
+
 
 # ✉️ Business Email
 ⏩ <a href="saifulislamofficiallbd@gmail.com">saifulislamofficiallbd@gmail.com</a>
