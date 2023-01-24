@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Saiful Islam</h1>
 <h3 align="center">A passionate front end Web developer from Bangladesh</h3>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=D93A7C)
+
 ![saifulIslamalways's Stats](https://github-readme-stats.vercel.app/api?username=saifulIslamalways&theme=radical&show_icons=true&hide_border=false&count_private=true)
 ![saifulIslamalways's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saifulIslamalways&theme=radical&hide_border=false)
 # 👨‍💻 About Me ❗
@@ -23,3 +23,5 @@ I’m a Front End Web developer. I have a passion for learning and sharing my kn
 
 # ✉️ Business Email
 ⏩ <a href="saifulislamalways@gmail.com">saifulislamalways@gmail.com</a>
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=D93A7C)
