@@ -1,4 +1,4 @@
-# Hi, I'm 👋 Saiful Islam
+<h1 align="center">Hi <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Saiful Islam</h1>
 ### I am a Web Developer!  ![](https://komarev.com/ghpvc/?username=your-github-username&color=D93A7C)
 ![saifulIslamalways's Stats](https://github-readme-stats.vercel.app/api?username=saifulIslamalways&theme=radical&show_icons=true&hide_border=false&count_private=true)
 ![saifulIslamalways's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saifulIslamalways&theme=radical&hide_border=false)
